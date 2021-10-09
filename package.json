@@ -1,0 +1,30 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.2.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjdiaz/Team_Profile_Generator.git"
+  },
+  "author": "Geneva Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjdiaz/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/gjdiaz/Team_Profile_Generator#readme"
+}
